@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "E8JphERIzB2/szM9poO0o4ncfxJanjrXk8UIN8ws2v0Ka7C0QZXa3MFQtC4zF7LV60NKkmf0LCHkCCLMeJ73gA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\james\\Desktop\\DemoBindings\\DemoBindings\\DemoBindings.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\james\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.31\\microsoft.xaml.behaviors.wpf.1.1.31.nupkg.sha512",
+    "C:\\Users\\james\\.nuget\\packages\\prism.core\\8.1.97\\prism.core.8.1.97.nupkg.sha512",
+    "C:\\Users\\james\\.nuget\\packages\\prism.wpf\\8.1.97\\prism.wpf.8.1.97.nupkg.sha512"
+  ],
+  "logs": []
+}
